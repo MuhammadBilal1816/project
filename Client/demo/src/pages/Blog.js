@@ -5,7 +5,7 @@ const Blog=()=>
     return(
         <div>
         
-        <div>Hello</div>
+        <div>1</div>
         </div>
     )
 }
